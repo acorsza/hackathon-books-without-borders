@@ -1,0 +1,21 @@
+[Seb13] Robert W. Sebesta, Programming the World Wide Web, 7thEd., Addison Wesley, 2013, ISBN: 0132665816.
+
+[PreLow09] Roger S. Pressman and David Lowe, Web Engineering: A Practitioner's Approach, McGraw-Hill, 2009, ISBN: 9780071263771.
+
+[Kap06] GertiKappelet al. (edt.), Web Engineering -Web Engineering –The Discipline of Systematic Development of Web Applications, John Wiley & Sons, 2006, ISBN: 0-470-01554-3. [eBook: http://fennypotter.files.wordpress.com/2010/12/johnwileyandsonswebengineering.pdf]
+
+Wade Trappe, Lawrence C. Washington, “Introduction to Cryptography with
+Coding Theory”, 2nd Ed, 2005, Prentice Hall ISBN 0-13-186239-1
+
+Richard A. Mollin, “An Introduction to Cryptography”, Chapman & Hall/CRC,
+2001, ISBN 1-58488-127-5
+
+Mark Stamp, “Information Security: Principles and Practices”,
+ISBN:978-0-471-73848-0, 2005 Oct. Wiley International
+
+The Art of Multiprocessor Programming, Revised Reprint by Maurice Herlihy and Nir Shavit (Jun 5, 2012)
+
+Introduction to Parallel Computing, 2nd Edition, Grama et al. Addison-Wesley
+
+Parallel Computer Architecture, Culler et al. Morgan Kaufmann 
+	
